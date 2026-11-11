@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.env
+*.ipynb_checkpoints
+mlruns/
+data/raw/
+*.joblib
+*.pt
+*.safetensors
+.DS_Store
